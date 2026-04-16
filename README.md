@@ -47,9 +47,8 @@ This solution is useful in real-world applications such as:
 ### 🎯 Object Detection Models (YOLOv8)
 - YOLOv8n (Nano) → Fast but lower accuracy  
 - YOLOv8s (Small) → Balanced  
-- YOLOv8m (Medium) → **Best Performance ✅**
 
-👉 **Final Detection Model: YOLOv8m**
+👉 **Final Detection Model: YOLOv8s**
 
 ---
 
@@ -104,4 +103,18 @@ The project is deployed using **Streamlit**, where users can:
 
 ---
 
-## 📂 Project Structure
+
+## 👩‍💻 Author
+
+**Raksha H M**
+**Intern At Labmentix"
+
+---
+
+## 📌 Conclusion
+
+This project successfully demonstrates the use of deep learning for aerial object recognition. By combining classification and detection techniques, the system achieves high accuracy and practical usability. MobileNetV2 and YOLOv8s proved to be the most effective models for this task.
+
+---
+
+## ⭐ If you like this project, don’t forget to star the repo!
