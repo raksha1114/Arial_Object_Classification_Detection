@@ -107,7 +107,7 @@ The project is deployed using **Streamlit**, where users can:
 ## 👩‍💻 Author
 
 **Raksha H M**
-**Intern At Labmentix"
+**Intern At Labmentix**
 
 ---
 
